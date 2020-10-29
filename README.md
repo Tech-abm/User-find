@@ -1,5 +1,5 @@
 # User-find
-![Screenshot_20201029-201827.png](https://user-images.githubusercontent.com/52023076/97595264-59584000-1a25-11eb-9df6-331066f8cd06.png)
+![Screenshot_20201029-201827_1.png](https://user-images.githubusercontent.com/52023076/97595780-d97ea580-1a25-11eb-9fe8-11b8d7380144.png)
 
 ```
 apt update && apt upgrade 
@@ -18,4 +18,4 @@ pip2 install mechanize
 
 python2 user-info.py
 ```
-#Thank you so much for using my script 
+
